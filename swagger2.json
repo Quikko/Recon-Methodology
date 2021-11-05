@@ -10,7 +10,7 @@
     },
     "license": {
       "name": "Apache 2.0",
-      "url": "javascript:alert(document.domain)"
+      "url": "javascript:alert(document.cookie)"
     }
   },
   "host": "petstore.swagger.io",
